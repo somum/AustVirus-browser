@@ -6,3 +6,7 @@ Back & Forward option
 Quick search result
 Jump into address with history option easily
 Used Tools : Java, XML, NetBeans
+
+<h1>Snap of Some Portions</h1>
+
+![](aust_virus.png)
